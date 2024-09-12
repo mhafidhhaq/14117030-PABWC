@@ -1,0 +1,9 @@
+1. Jika terjadi kesalahan kode, HTML yang dibuat tidak error akan tetapi tampilan di website akan berantakan jika ada kesalahan dalam memberi format.
+2. Yang terjadi jika metadata diubah sesuai soal, disaat file html dibuka maka website dalam waktu 5 detik akan refresh ke halaman pencarian google.
+   Kegunaan meta dokumen sebagai identitas/informasi dari file html yang dibuat seperti owner, keyword, layout.
+3. Fungsi tag HTML pada table:
+   thead: mengelompokkan isi header dalam sebuah tabel
+   tbody: mengelompokkan isi tubuh dalam sebuah tabel
+   tr: membuat baris dalam sebuah tabel
+   th: membuat sebuah sel header tabel
+   td: membuat sel dalam sebuah tabel
