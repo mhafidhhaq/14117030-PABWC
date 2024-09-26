@@ -1,0 +1,89 @@
+.pembungkus{
+	width: 1345px;
+	background: WhiteSmoke;
+	border: 2px solid;
+}
+
+main{
+	display: flex;
+}
+
+header, .navigasi, .konten, .footer{
+	margin-bottom: 5px;
+	padding: 15px 0;
+}
+
+header {
+	width: 100%;
+	height: 70px;
+	background-image: url(https://pbs.twimg.com/media/D0cdnvJVAAUSGUp.jpg);
+	text-align: center;
+	color : white;
+	font-family: Courier New;
+	font-size: 50px;
+}
+
+.navigasi a: hover{
+	background-color: red;
+	color: blue;
+}
+
+.navigasi{
+	width: 100%;
+	height: auto;
+	background: blue;
+}
+
+.navigasi ul{
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+.navigasi ul li{
+	float: left;
+	list-style-type: none;
+	padding: 4px;
+}
+
+.navigasi ul li a{
+	text-decoration: none;
+	color: whitesmoke;
+	display: block;
+}
+
+.konten{
+	width:100%;
+	background: #c72626;
+	color : white;
+	font-family: Courier New;
+	font-size: 15px;	
+}
+
+.kontennews{
+	width:100%;
+	background-image: url(https://wallpaperplay.com/walls/full/8/5/9/52854.jpg);
+	color : white;
+	font-family: Courier New;
+	font-size: 15px;	
+}
+
+.kontenhome{
+	width:100%;
+	background-image: url(https://fcbarcelona-static-files.s3.amazonaws.com/fcbarcelona/photo/2018/12/18/0dd476c9-d4e6-4e06-b596-89ae26886812/3200x2000-BEST_GOAL_EVER-ST.jpg);
+	color : white;
+	font-family: Courier New;
+	font-size: 15px;	
+}
+
+.footer{
+	width: 100%;
+	background: #C3C3C3;
+	text-align: center;
+}
+
+h1{
+	color : white;
+	font-family: Courier New;
+	font-size: 20px;	
+}
